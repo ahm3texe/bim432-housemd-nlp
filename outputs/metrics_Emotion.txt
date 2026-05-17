@@ -1,0 +1,18 @@
+=== Emotion ===
+Accuracy      : 0.4759
+F1 (macro)    : 0.1639
+F1 (weighted) : 0.3828
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      alaycı       1.00      0.01      0.03        71
+    analitik       0.00      0.00      0.00        65
+       ciddi       0.10      0.02      0.03       129
+       diğer       0.53      0.22      0.31       506
+      endişe       0.00      0.00      0.00        62
+        nötr       0.47      0.91      0.62       661
+
+    accuracy                           0.48      1494
+   macro avg       0.35      0.19      0.16      1494
+weighted avg       0.45      0.48      0.38      1494

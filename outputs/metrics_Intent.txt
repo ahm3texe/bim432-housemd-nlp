@@ -1,0 +1,20 @@
+=== Intent ===
+Accuracy      : 0.5100
+F1 (macro)    : 0.2674
+F1 (weighted) : 0.4494
+
+Classification Report:
+               precision    recall  f1-score   support
+
+     açıklama       0.54      0.87      0.66       676
+değerlendirme       0.00      0.00      0.00         3
+        diğer       0.41      0.21      0.28       436
+      hipotez       0.44      0.28      0.34       169
+         soru       0.55      0.41      0.47        64
+      talimat       0.45      0.11      0.18        45
+         tanı       0.00      0.00      0.00        77
+       tedavi       0.60      0.12      0.21        24
+
+     accuracy                           0.51      1494
+    macro avg       0.37      0.25      0.27      1494
+ weighted avg       0.46      0.51      0.45      1494

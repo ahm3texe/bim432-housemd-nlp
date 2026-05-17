@@ -1,0 +1,14 @@
+=== Sarcasm ===
+Accuracy      : 0.8842
+F1 (macro)    : 0.5665
+F1 (weighted) : 0.8874
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.94      1393
+           1       0.18      0.21      0.20       101
+
+    accuracy                           0.88      1494
+   macro avg       0.56      0.57      0.57      1494
+weighted avg       0.89      0.88      0.89      1494

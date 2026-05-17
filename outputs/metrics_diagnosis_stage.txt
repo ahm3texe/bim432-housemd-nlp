@@ -1,0 +1,19 @@
+=== diagnosis_stage ===
+Accuracy      : 0.3815
+F1 (macro)    : 0.3288
+F1 (weighted) : 0.3732
+
+Classification Report:
+               precision    recall  f1-score   support
+
+değerlendirme       0.33      0.44      0.38       369
+        diğer       0.31      0.33      0.32       380
+      hipotez       0.47      0.51      0.49       247
+         tanı       0.18      0.09      0.12        64
+       tedavi       0.50      0.36      0.42       144
+         test       0.53      0.47      0.50       204
+          yok       0.24      0.05      0.08        86
+
+     accuracy                           0.38      1494
+    macro avg       0.36      0.32      0.33      1494
+ weighted avg       0.38      0.38      0.37      1494

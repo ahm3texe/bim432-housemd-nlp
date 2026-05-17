@@ -1,0 +1,38 @@
+{
+  "Intent": {
+    "n_classes": 8,
+    "n_train": 5460,
+    "n_test": 1494,
+    "accuracy": 0.5100401606425703,
+    "f1_macro": 0.26738884544729546,
+    "f1_weighted": 0.4493516817890707,
+    "feature_dim": 42737
+  },
+  "diagnosis_stage": {
+    "n_classes": 7,
+    "n_train": 5460,
+    "n_test": 1494,
+    "accuracy": 0.3815261044176707,
+    "f1_macro": 0.32879789164514,
+    "f1_weighted": 0.37318795320585274,
+    "feature_dim": 42737
+  },
+  "Emotion": {
+    "n_classes": 6,
+    "n_train": 5460,
+    "n_test": 1494,
+    "accuracy": 0.4759036144578313,
+    "f1_macro": 0.16392858092926058,
+    "f1_weighted": 0.38282822668079775,
+    "feature_dim": 42737
+  },
+  "Sarcasm": {
+    "n_classes": 2,
+    "n_train": 5460,
+    "n_test": 1494,
+    "accuracy": 0.8842034805890228,
+    "f1_macro": 0.5664807655213479,
+    "f1_weighted": 0.8874328748782172,
+    "feature_dim": 42737
+  }
+}

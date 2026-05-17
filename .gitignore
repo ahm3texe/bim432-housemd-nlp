@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Node (sunum üretici, lokal kullanım)
+node_modules/
+build_pptx.js
+package.json
+package-lock.json
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Office lock files
+~$*
